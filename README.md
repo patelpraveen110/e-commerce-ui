@@ -90,3 +90,6 @@ module.exports = {
 <!-- @tailwind base;
 @tailwind components;
 @tailwind utilities; -->
+7. npm i @heroicons/react
+8. npm i @headlessui/react 
+9. npm i react-alice-carousel
